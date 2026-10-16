@@ -1,0 +1,8 @@
+﻿lag_bucket,total,failed,success,missing,invalid,returned,failure_rate,ci_low,ci_high,eligible
+<1h,1346,175,1124,47,0,1299,0.13471901462663588,0.11722540997028992,0.15436669851310475,True
+1-6h,4,2,1,1,0,3,0.6666666666666666,0.2076596008020477,0.9385080552796037,False
+6-24h,0,0,0,0,0,0,,,,False
+1-3d,0,0,0,0,0,0,,,,False
+>3d,0,0,0,0,0,0,,,,False
+negative,0,0,0,0,0,0,,,,False
+missing,0,0,0,0,0,0,,,,False

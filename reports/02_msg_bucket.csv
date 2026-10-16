@@ -1,0 +1,7 @@
+﻿msg_bucket,total,failed,success,missing,invalid,returned,failure_rate,ci_low,ci_high,eligible
+0,0,0,0,0,0,0,,,,False
+1-2,2,0,2,0,0,2,0.0,0.0,0.6576197724933469,False
+3-5,1,0,1,0,0,1,0.0,0.0,0.7934506856227626,False
+>5,1347,177,1122,48,0,1299,0.13625866050808313,0.11867188392381887,0.15599043695795978,True
+invalid,0,0,0,0,0,0,,,,False
+missing,0,0,0,0,0,0,,,,False
