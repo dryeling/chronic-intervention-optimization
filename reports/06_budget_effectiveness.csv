@@ -1,0 +1,16 @@
+﻿plan,rule,avoidance_fraction,gross_minutes,verification_minutes,net_minutes
+A,buffer_le5_lag_ge15min,0.0,0.0,660,-660.0
+A,buffer_le5_lag_ge15min,0.25,581.25,660,-78.75
+A,buffer_le5_lag_ge15min,0.5,1162.5,660,502.5
+A,buffer_le5_lag_ge15min,0.75,1743.75,660,1083.75
+A,buffer_le5_lag_ge15min,1.0,2325.0,660,1665.0
+B,buffer_le29_lag_ge15min,0.0,0.0,3370,-3370.0
+B,buffer_le29_lag_ge15min,0.25,2662.5,3370,-707.5
+B,buffer_le29_lag_ge15min,0.5,5325.0,3370,1955.0
+B,buffer_le29_lag_ge15min,0.75,7987.5,3370,4617.5
+B,buffer_le29_lag_ge15min,1.0,10650.0,3370,7280.0
+C,buffer_le28_lag_ge0min,0.0,0.0,12610,-12610.0
+C,buffer_le28_lag_ge0min,0.25,3168.75,12610,-9441.25
+C,buffer_le28_lag_ge0min,0.5,6337.5,12610,-6272.5
+C,buffer_le28_lag_ge0min,0.75,9506.25,12610,-3103.75
+C,buffer_le28_lag_ge0min,1.0,12675.0,12610,65.0

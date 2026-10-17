@@ -1,0 +1,3 @@
+﻿feature,missing_group_total,missing_valid_feature,missing_unusable_feature,missing_negative_feature,missing_mean,missing_median,returned_group_total,returned_valid_feature,returned_unusable_feature,returned_negative_feature,returned_mean,returned_median,mean_difference,median_difference,sample_note
+data_lag_hours,48,48,0,0,0.19027777777777777,0.08333333333333333,1302,1302,0,0,0.21573220686123912,0.1,-0.02545442908346135,-0.016666666666666677,样本门槛达标，仅作探索性比较
+buffer_days,48,48,0,0,14.833333333333334,15.0,1302,1302,0,0,14.995391705069125,15.0,-0.16205837173579063,0.0,样本门槛达标，仅作探索性比较
